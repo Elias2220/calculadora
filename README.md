@@ -1,4 +1,3 @@
-# calculadora
 # Calculadora
 
 Esta es una calculadora web simple creada con HTML, CSS y JavaScript utilizando Web Components.
@@ -9,8 +8,6 @@ Esta es una calculadora web simple creada con HTML, CSS y JavaScript utilizando 
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 
 ## Descripción
 
@@ -62,15 +59,6 @@ El archivo `index.html` define la plantilla de la calculadora y la inserta en la
 
 El archivo `script.js` define la clase `Calculadora` que extiende `HTMLElement` y maneja toda la lógica de la calculadora. La calculadora usa un Shadow DOM para encapsular su estructura y estilos.
 
-## Contribución
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Agregar nueva característica'`).
-4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
 
 
 
