@@ -42,10 +42,10 @@ También hay botones para limpiar la pantalla (`C`) y calcular el resultado (`=`
 
 Para lograr usar de forma correcta la raíz cuadrada, es necesario lo siguiente:
 
--Dar un click en cualquiera de los números que tiene la calculadora (de preferencia el 0)
--Seleccionar el botón (`√`), seguido del número del que se desee conocer la raíz
--Dar click en ('=') y el resultado se mostrará en pantalla
-
+- Dar un click en cualquiera de los números que tiene la calculadora (de preferencia el 0)
+- Seleccionar el botón (`√`), seguido del número del que se desee conocer la raíz
+- Dar click en ('=') y el resultado se mostrará en pantalla
+  
 ## Estructura del Proyecto
 
 - `index.html`: Contiene la estructura HTML y el componente web personalizado.
